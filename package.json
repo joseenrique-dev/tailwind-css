@@ -1,0 +1,23 @@
+{
+  "name": "TaldwindCss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "taildwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseenrique-dev/tailwind-css.git"
+  },
+  "keywords": [],
+  "author": "José Enrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseenrique-dev/tailwind-css/issues"
+  },
+  "homepage": "https://github.com/joseenrique-dev/tailwind-css#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.2"
+  }
+}
